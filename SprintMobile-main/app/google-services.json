@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "288810481191",
+    "project_id": "bigas-7b3b9",
+    "storage_bucket": "bigas-7b3b9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288810481191:android:1fc34db7dc5f6bf0068002",
+        "android_client_info": {
+          "package_name": "com.example.loginapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1lea6Qh5P72M02vnvGWYp88dZi97r0hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
